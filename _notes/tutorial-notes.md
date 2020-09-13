@@ -4,7 +4,9 @@
 - Tower derive from QGraphicsPixmapItem 
 - Add resource
 - Add multimedia lib
-- Load image
+- Load tower image
 ```
 setPixmap(QPixmap(":/images/tower.png"));
 ```
+- Polygon
+

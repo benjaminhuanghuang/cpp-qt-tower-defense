@@ -813,6 +813,8 @@ game.o: game.cpp ../../../Qt/5.9.9/clang_64/lib/QtWidgets.framework/Headers/QGra
 
 tower.o: tower.cpp ../../../Qt/5.9.9/clang_64/lib/QtWidgets.framework/Headers/QGraphicsScene \
 		../../../Qt/5.9.9/clang_64/lib/QtWidgets.framework/Headers/qgraphicsscene.h \
+		../../../Qt/5.9.9/clang_64/lib/QtCore.framework/Headers/QVector \
+		../../../Qt/5.9.9/clang_64/lib/QtCore.framework/Headers/qvector.h \
 		tower.h \
 		../../../Qt/5.9.9/clang_64/lib/QtCore.framework/Headers/QObject \
 		../../../Qt/5.9.9/clang_64/lib/QtCore.framework/Headers/qobject.h \
