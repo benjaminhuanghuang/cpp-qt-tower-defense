@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/src/**",
+                "/Users/bhuang/Qt/5.9.9/clang_64/lib/QtCore.framework/Headers",
+                "/Users/bhuang/Qt/5.9.9/clang_64/lib/QtWidgets.framework/Headers",
+                "/Users/bhuang/Qt/5.9.9/clang_64/lib/QtGui.framework/Headers",
+                "/Users/bhuang/Qt/5.9.9/clang_64/lib/QtMultimedia.framework/Headers",
+                "/Users/bhuang/Qt/5.9.9/clang_64/lib/"             
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

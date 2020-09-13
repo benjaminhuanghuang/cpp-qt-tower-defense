@@ -1,0 +1,10 @@
+.DS_Store
+build/
+*.exe
+*.o
+*.app
+*.stash
+moc_*.cpp
+moc_*.h
+qrc_res.cpp
+.qmake.stash
